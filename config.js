@@ -6,7 +6,7 @@ const CONFIG = {
     Mà mình yêu thì yêu nhé embe`,
     btnIntro: '^^HiHi^^',
     title: 'Anh Yêu Em!!!! 🥰',
-    desc: 'TEmbe làm bạn gái - ngừi yêu - má nhỏ - cục cưng - thé giới của anh nhaaa!!!',
+    desc: 'Embe làm bạn gái - ngừi yêu - má nhỏ - cục cưng - thé giới của anh nhaaa!!!',
     btnYes: 'Thích lắmmmm, dạ chịuuuuu <33',
     btnNo: 'Hong :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
